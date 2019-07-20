@@ -8,6 +8,8 @@
       <change afterPath="$PROJECT_DIR$/src/test/java/com/wagwalking/BecomeWalkerRequiredFieldTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/com/wagwalking/InvalidCredentialsTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/com/wagwalking/ValidEmailTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src" beforeDir="false" afterPath="$PROJECT_DIR$/src" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/wagwalking/page/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wagwalking/page/BasePage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/wagwalking/page/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wagwalking/page/HomePage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/wagwalking/page/PromotionWalkFreePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wagwalking/page/PromotionWalkFreePage.java" afterDir="false" />
@@ -301,7 +303,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -404,7 +406,7 @@
     </recent_temporary>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\Albina Karimova\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
