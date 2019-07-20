@@ -8,7 +8,6 @@
       <change afterPath="$PROJECT_DIR$/src/test/java/com/wagwalking/BecomeWalkerRequiredFieldTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/com/wagwalking/InvalidCredentialsTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/com/wagwalking/ValidEmailTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src" beforeDir="false" afterPath="$PROJECT_DIR$/src" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/wagwalking/page/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wagwalking/page/BasePage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/wagwalking/page/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wagwalking/page/HomePage.java" afterDir="false" />
@@ -142,6 +141,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
   </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="681e0137-3754-4b25-bf56-d316a3adefb7" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -180,7 +182,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="277" />
     <option name="width" value="1125" />
     <option name="height" value="966" />
@@ -268,7 +270,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="vcs.Subversion.SSH" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
